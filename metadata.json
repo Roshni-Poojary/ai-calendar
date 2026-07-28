@@ -1,0 +1,6 @@
+{
+  "name": "Smart AI Calendar",
+  "description": "Smart AI-powered personal calendar with natural language schedule parsing, interactive monthly view, tasks, and reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
